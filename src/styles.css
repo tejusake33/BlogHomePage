@@ -29,6 +29,3 @@
 h3{
     @apply font-bold text-2xl m-5;
 }
-p{
-    @apply m-5 text-gray-500;
-}
