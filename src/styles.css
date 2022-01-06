@@ -30,5 +30,5 @@ h3{
     @apply font-bold text-2xl m-5 lg:m-5;
 }
 p{
-    @apply m-5 lg:m-7 text-cyan-300;
+    @apply m-5 lg:m-7 text-gray-500;
 }
