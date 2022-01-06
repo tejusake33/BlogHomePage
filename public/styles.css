@@ -33319,8 +33319,8 @@ video {
 
 @media (min-width: 1024px) {
   .card {
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
     margin-top: 4rem;
     height: 24rem;
     width: 24rem;
