@@ -33346,8 +33346,8 @@ h3{
   border-color: rgba(0, 0, 0, var(--tw-border-opacity));
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0px;
+  padding-bottom: 0px;
   font-size: 0.75rem;
   line-height: 1rem;
   font-weight: 700;
@@ -33355,6 +33355,13 @@ h3{
   letter-spacing: 0.05em;
   --tw-text-opacity: 1;
   color: rgba(55, 65, 81, var(--tw-text-opacity));
+}
+
+@media (min-width: 1024px) {
+  .btn {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
 }
 
 @media (min-width: 640px) {
