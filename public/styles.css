@@ -33344,14 +33344,14 @@ h3{
   }
 }
 
-span{
+p{
   margin: 1.25rem;
   --tw-text-opacity: 1;
   color: rgba(103, 232, 249, var(--tw-text-opacity));
 }
 
 @media (min-width: 1024px) {
-  span {
+  p {
     margin: 1.75rem;
   }
 }
