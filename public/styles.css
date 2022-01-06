@@ -33337,8 +33337,8 @@ h3{
 .btn{
   margin-left: 1.25rem;
   margin-right: 1.25rem;
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
   cursor: pointer;
   border-radius: 9999px;
   border-width: 2px;
@@ -33359,6 +33359,8 @@ h3{
 
 @media (min-width: 1024px) {
   .btn {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
   }
