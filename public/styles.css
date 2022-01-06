@@ -33144,6 +33144,8 @@ video {
 }
 
 .bloghome p{
+  margin-left: 0px;
+  margin-right: 0px;
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   text-align: left;
@@ -33166,8 +33168,8 @@ video {
 }
 
 .bloghome span{
-  margin-left: 0.25rem;
-  margin-right: 0.25rem;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   text-align: left;
