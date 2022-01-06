@@ -5,7 +5,7 @@
 .bloghome h1{
     @apply font-bold text-gray-800 text-left md:text-center lg:text-left mx-0 text-5xl font-sans;
 }
-.bloghome h2{
+.bloghome p{
     @apply mt-5 mb-5 text-3xl text-gray-500 mx-1 text-left md:text-center lg:text-left;
 }
 .bloghome span{
