@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 .bloghome h1{
-    @apply font-extrabold text-gray-800 text-left md:text-center lg:text-left mx-0 text-5xl font-sans;
+    @apply font-bold text-gray-800 text-left md:text-center lg:text-left mx-0 text-5xl font-sans;
 }
 .bloghome h2{
-    @apply mt-5 mb-5 text-sm mx-1 text-left md:text-center lg:text-left;
+    @apply mt-5 mb-5 text-4xl text-gray-500 mx-1 text-left md:text-center lg:text-left;
 }
 .bloghome p{
     @apply mt-5 mb-5 text-lg mx-1 text-black text-left md:text-center lg:text-left;
