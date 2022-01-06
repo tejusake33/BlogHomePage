@@ -27,7 +27,7 @@
     @apply bg-white rounded-lg overflow-hidden shadow-md justify-center mx-10 lg:mx-0 md:justify-center mb-5 sm:mt-5 lg:mt-16 lg:h-96 lg:w-96 hover:shadow-lg;
 }
 h3{
-    @apply font-bold text-2xl m-5 lg:m-7;
+    @apply font-bold text-2xl m-5 lg:m-5;
 }
 p{
     @apply m-5 lg:m-7 text-cyan-300;
