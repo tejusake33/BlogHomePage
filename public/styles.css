@@ -33167,7 +33167,7 @@ video {
   }
 }
 
-.bloghome section p{
+.bloghome b{
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   text-align: left;
@@ -33178,13 +33178,13 @@ video {
 }
 
 @media (min-width: 768px) {
-  .bloghome section p {
+  .bloghome b {
     text-align: center;
   }
 }
 
 @media (min-width: 1024px) {
-  .bloghome section p {
+  .bloghome b {
     text-align: left;
   }
 }
