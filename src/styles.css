@@ -9,7 +9,7 @@
     @apply mt-5 mb-5 m-0 text-3xl text-gray-500 text-left md:text-center lg:text-left;
 }
 .bloghome span{
-    @apply mt-5 mb-5 block text-lg text-black text-left md:text-center lg:text-left;
+    @apply block mt-5 mb-5 text-lg text-black text-left md:text-center lg:text-left;
 }
 .bloghome form{
     @apply sm:flex sm:justify-center md:justify-center lg:justify-start mt-5;
