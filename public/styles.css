@@ -33167,25 +33167,24 @@ video {
   }
 }
 
-.bloghome b{
+.bloghome section p{
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   text-align: left;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
   --tw-text-opacity: 1;
   color: rgba(0, 0, 0, var(--tw-text-opacity));
 }
 
 @media (min-width: 768px) {
-  .bloghome b {
+  .bloghome section p {
     text-align: center;
   }
 }
 
 @media (min-width: 1024px) {
-  .bloghome b {
+  .bloghome section p {
     text-align: left;
   }
 }
