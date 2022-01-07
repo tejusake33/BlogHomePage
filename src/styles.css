@@ -6,7 +6,7 @@
     @apply font-bold text-gray-800 pt-1 text-left md:text-center lg:text-left mx-0 text-5xl font-sans;
 }
 .bloghome p{
-    @apply mt-5 mb-5 m-0 text-3xl text-gray-500 text-left md:text-center lg:text-left;
+    @apply mt-5 m-0 text-3xl text-gray-500 text-left md:text-center lg:text-left;
 }
 #blogpara{
     @apply mt-5 mb-5 text-sm text-black text-left md:text-center lg:text-left;
