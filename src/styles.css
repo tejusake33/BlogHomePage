@@ -38,3 +38,6 @@ h3{
 .poparticles section{
     @apply bg-white rounded overflow-hidden mr-0 lg:mr-7 mb-8 lg:mb-0 shadow-md relative hover:shadow-lg;
 }
+.poparticles h2{
+    @apply m-7 font-semibold text-xl;
+}

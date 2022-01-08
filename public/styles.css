@@ -33389,6 +33389,13 @@ h3{
   }
 }
 
+.poparticles h2{
+  margin: 1.75rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
