@@ -33365,25 +33365,6 @@ h3{
   font-weight: 600;
 }
 
-.poparticles div{
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-  margin-right: 2.5rem;
-  margin-left: 2.5rem;
-  display: grid;
-  grid-template-columns: repeat(1, minmax(0, 1fr));
-}
-
-@media (min-width: 1024px) {
-  .poparticles div {
-    margin-top: 4rem;
-    margin-bottom: 4rem;
-    margin-right: 3.5rem;
-    margin-left: 5rem;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
