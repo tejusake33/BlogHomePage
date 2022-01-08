@@ -33357,6 +33357,14 @@ h3{
   color: rgba(156, 163, 175, var(--tw-text-opacity));
 }
 
+.poparticles h1{
+  margin: 2.5rem;
+  text-align: center;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 600;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
