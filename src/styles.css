@@ -35,3 +35,6 @@ h3{
 .poparticles h1{
     @apply text-center m-10 text-4xl font-semibold;
 }
+.poparticles div{
+    @apply grid grid-cols-1 lg:grid-cols-3 ml-10 lg:ml-20 my-10 lg:my-16 mr-10 lg:mr-14;
+}
