@@ -33396,7 +33396,7 @@ h3{
   font-weight: 600;
 }
 
-.poparticles input{
+.poparticles div div input{
   float: right;
   cursor: pointer;
   border-top-left-radius: 0.375rem;
