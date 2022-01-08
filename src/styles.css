@@ -41,8 +41,8 @@ h3{
 .poparticles h2{
     @apply m-7 font-semibold text-xl;
 }
-.poparticles a input{
-    @apply float-right py-4 rounded-tl-md px-4 cursor-pointer;
+.poparticles a span{
+    @apply mx-7 text-xs font-semibold text-cyan-300;
 }
 .rearticles h1{
     @apply text-center m-10 text-4xl font-semibold;
