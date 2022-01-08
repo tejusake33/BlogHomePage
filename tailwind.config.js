@@ -7,15 +7,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        height: {
-          '128': '32rem',
-        },
         cyan: {
           300: '#67e8f9',
           50: '#ecfeff',
           100: '#DDE3F3',
           50: '#f5f3ff',
           200: '#f1f5f9',
+          150: '#009ffd',
         }
       }
     },
