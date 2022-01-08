@@ -33396,6 +33396,16 @@ h3{
   font-weight: 600;
 }
 
+.poparticles input{
+  float: right;
+  cursor: pointer;
+  border-top-left-radius: 0.375rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
