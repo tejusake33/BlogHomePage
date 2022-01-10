@@ -47,6 +47,9 @@ h3{
 .poparticles p{
     @apply m-7 font-bold text-sm;
 }
+.poparticles img{
+    @apply w-full h-44;
+}
 .rearticles h1{
     @apply text-center m-10 text-4xl font-semibold;
 }

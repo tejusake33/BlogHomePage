@@ -33429,6 +33429,11 @@ h3{
   font-weight: 700;
 }
 
+.poparticles img{
+  height: 11rem;
+  width: 100%;
+}
+
 .rearticles h1{
   margin: 2.5rem;
   text-align: center;
