@@ -44,6 +44,9 @@ h3{
 .poparticles a span{
     @apply mx-7 pb-4 text-xs block font-semibold text-red-600;
 }
+.poparticles p{
+    @apply m-7 font-bold text-sm;
+}
 .rearticles h1{
     @apply text-center m-10 text-4xl font-semibold;
 }

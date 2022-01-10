@@ -33422,6 +33422,13 @@ h3{
   color: rgba(220, 38, 38, var(--tw-text-opacity));
 }
 
+.poparticles p{
+  margin: 1.75rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+}
+
 .rearticles h1{
   margin: 2.5rem;
   text-align: center;
