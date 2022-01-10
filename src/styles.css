@@ -47,6 +47,3 @@ h3{
 .rearticles h1{
     @apply text-center m-10 text-4xl font-semibold;
 }
-.rearticles section{
-    @apply bg-white rounded mr-0 mb-8 lg:mb-0 lg:mr-7 overflow-hidden shadow-md relative;
-}

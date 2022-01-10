@@ -33426,25 +33426,6 @@ h3{
   font-weight: 600;
 }
 
-.rearticles section{
-  position: relative;
-  margin-right: 0px;
-  margin-bottom: 2rem;
-  overflow: hidden;
-  border-radius: 0.25rem;
-  --tw-bg-opacity: 1;
-  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
-  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-@media (min-width: 1024px) {
-  .rearticles section {
-    margin-right: 1.75rem;
-    margin-bottom: 0px;
-  }
-}
-
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
