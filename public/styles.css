@@ -33442,6 +33442,21 @@ h3{
   font-weight: 600;
 }
 
+.rearticles img{
+  float: left;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  margin-left: 0.25rem;
+  border-radius: 0.375rem;
+}
+
+@media (min-width: 1024px) {
+  .rearticles img {
+    margin-right: 1.25rem;
+    margin-left: 5rem;
+  }
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
