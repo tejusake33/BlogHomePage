@@ -33411,8 +33411,10 @@ h3{
 }
 
 .poparticles a span{
-  margin: 1.75rem;
+  margin-left: 1.75rem;
+  margin-right: 1.75rem;
   display: block;
+  padding-bottom: 1rem;
   font-size: 0.75rem;
   line-height: 1rem;
   font-weight: 600;

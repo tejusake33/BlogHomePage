@@ -42,7 +42,7 @@ h3{
     @apply m-7 font-semibold text-xl;
 }
 .poparticles a span{
-    @apply m-7 text-xs block font-semibold text-red-600;
+    @apply mx-7 pb-4 text-xs block font-semibold text-red-600;
 }
 .rearticles h1{
     @apply text-center m-10 text-4xl font-semibold;
