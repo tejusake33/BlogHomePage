@@ -59,3 +59,6 @@ h3{
 .rearticles section{
     @apply my-5 ml-1 lg:ml-0 mx-0 lg:mx-20 block;
 }
+.rearticles h2{
+    @apply text-3xl text-left font-bold;
+}
