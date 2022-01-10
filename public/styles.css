@@ -33490,6 +33490,18 @@ video {
   font-weight: 700;
 }
 
+.rearticles h4{
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  text-align: left;
+}
+
+@media (min-width: 1024px) {
+  .rearticles h4 {
+    margin-bottom: 5rem;
+  }
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

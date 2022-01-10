@@ -65,3 +65,6 @@
 .rearticles h3{
     @apply font-bold mx-0 text-sm mt-5;
 }
+.rearticles h4{
+    @apply mt-5 mb-5 lg:mb-20 text-left;
+}
