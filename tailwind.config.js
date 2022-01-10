@@ -15,7 +15,6 @@ module.exports = {
           200: '#f1f5f9',
           150: '#009ffd',
           250: '#526d7a',
-          350: '#ca8a04',
           400: '#d6d3d1',
           450: '#7dd3fc',
           500: '#f43f5e',
@@ -25,6 +24,9 @@ module.exports = {
         },
         stone: {
           light: '#d6d3d1',
+        },
+        yellow: {
+          dark: '#ca8a04',
         }
       }
     },
