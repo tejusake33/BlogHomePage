@@ -33410,6 +33410,7 @@ h3{
 
 .poparticles a span{
   margin: 1.75rem;
+  display: block;
   font-size: 0.75rem;
   line-height: 1rem;
   font-weight: 600;
