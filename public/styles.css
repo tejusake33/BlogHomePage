@@ -33364,7 +33364,7 @@ video {
   color: rgba(220, 38, 38, var(--tw-text-opacity));
 }
 
-h3{
+.card h3{
   margin: 1.25rem;
   font-size: 1.5rem;
   line-height: 2rem;
@@ -33478,6 +33478,15 @@ h3{
   text-align: left;
   font-size: 1.875rem;
   line-height: 2.25rem;
+  font-weight: 700;
+}
+
+.rearticles h3{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
   font-weight: 700;
 }
 
