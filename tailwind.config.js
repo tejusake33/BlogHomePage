@@ -14,19 +14,23 @@ module.exports = {
           50: '#f5f3ff',
           200: '#f1f5f9',
           150: '#009ffd',
-          250: '#526d7a',
           400: '#d6d3d1',
-          450: '#7dd3fc',
-          500: '#f43f5e',
         },
         slate: {
           dark: '#64748b',
+          100: '#526d7a',
         },
         stone: {
           light: '#d6d3d1',
         },
         yellow: {
           dark: '#ca8a04',
+        },
+        sky: {
+          300: '#7dd3fc',
+        },
+        rose: {
+          500: '#f43f5e',
         }
       }
     },
