@@ -68,3 +68,6 @@
 .rearticles h4{
     @apply mt-5 mb-5 lg:mb-20 text-left;
 }
+.rearticles p{
+    @apply mt-5 mb-5 lg:mb-12 text-left;
+}
