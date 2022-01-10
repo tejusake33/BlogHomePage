@@ -29,8 +29,8 @@ module.exports = {
         sky: {
           300: '#7dd3fc',
         },
-        rose: {
-          500: '#f43f5e',
+        purple: {
+          700: '#7e22ce',
         }
       }
     },
