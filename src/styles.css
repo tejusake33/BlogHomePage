@@ -56,3 +56,6 @@ h3{
 .rearticles img{
     @apply float-left rounded-md ml-1 lg:mr-5 lg:ml-20 my-5;
 }
+.rearticles section{
+    @apply my-5 ml-1 lg:ml-0 mx-0 lg:mx-20 block;
+}
