@@ -71,3 +71,6 @@
 .rearticles p{
     @apply mt-5 mb-5 lg:mb-12 text-left;
 }
+.rearticles a span{
+    @apply block text-xs font-semibold text-red-600;
+}
