@@ -51,7 +51,7 @@
     @apply w-full h-44;
 }
 .rearticles h1{
-    @apply text-center m-10 text-4xl font-semibold;
+    @apply text-center mt-10 mb-5 text-4xl font-semibold;
 }
 .rearticles img{
     @apply float-left rounded-md ml-1 lg:mr-5 lg:ml-20 my-5;
