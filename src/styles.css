@@ -33,7 +33,7 @@
     @apply font-bold text-2xl m-5;
 }
 .poparticles h1{
-    @apply text-center m-10 text-4xl font-semibold;
+    @apply text-center mt-10 mb-5 text-4xl font-semibold;
 }
 .poparticles section{
     @apply bg-white rounded overflow-hidden mr-0 lg:mr-7 mb-8 lg:mb-0 shadow-md relative hover:shadow-lg;
