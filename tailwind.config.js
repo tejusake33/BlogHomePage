@@ -22,6 +22,9 @@ module.exports = {
         },
         slate: {
           dark: '#64748b',
+        },
+        stone: {
+          light: '#d6d3d1',
         }
       }
     },
