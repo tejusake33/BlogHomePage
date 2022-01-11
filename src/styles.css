@@ -77,3 +77,6 @@
 .rearticles a span{
     @apply block text-xs font-semibold text-gray-600;
 }
+.pegination{
+    @apply md:-mt-px md:flex;
+}
