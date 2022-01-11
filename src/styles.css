@@ -50,6 +50,9 @@
 .poparticles img{
     @apply w-full h-44;
 }
+.rearticles{
+    @apply mb-5 lg:mb-10;
+}
 .rearticles h1{
     @apply text-center mt-10 mb-5 text-4xl font-semibold;
 }
