@@ -27,7 +27,7 @@
     @apply bg-white rounded-lg overflow-hidden shadow-md justify-center mx-10 lg:mx-11 pb-4 md:justify-center mb-5 sm:mt-5 lg:mt-16 hover:shadow-lg;
 }
 .card span{
-    @apply block mx-5 mt-12 text-xs font-semibold text-red-600;
+    @apply block mx-5 mt-12 text-xs font-semibold text-gray-600;
 }
 .card h3{
     @apply font-bold text-2xl m-5;
